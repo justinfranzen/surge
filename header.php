@@ -1,10 +1,10 @@
 <!doctype html>
 <html lang="us">
 <head>
-	<meta charset="utf-8">
+<meta charset="utf-8">
     
 <!-----------------CSS STYLES------------------>
-   <link rel="stylesheet" type="text/css" href="css/styles.css" >
+<link rel="stylesheet" type="text/css" href="css/styles.css" >
     
 <!------------MOBILE RESPONSIVENESS------------>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -46,8 +46,6 @@
     <link rel="icon" type="image/png" href="./images/favicon-16x16.png" sizes="16x16" />
     
 <style>
-
-    
     .parallax {
     /* The image used */
     background-image: url("images/little-tykes.jpg");
@@ -90,7 +88,7 @@
     background-size: cover;
 }
     
-     .parallax4 {
+.parallax4 {
     /* The image used */
     background-image: url("images/surge-fit.jpg");
 
